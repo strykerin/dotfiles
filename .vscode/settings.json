@@ -1,0 +1,48 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": true,
+    "editor.accessibilitySupport": "off",
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "debug.onTaskErrors": "debugAnyway",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontSize": 12,
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.arrowParens": "always",
+    "prettier.jsxBracketSameLine": false,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "eslint.enable": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.quoteStyle": "single",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "solidity.linter": "solhint",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "hardhat.telemetry": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    // Visual Code Color
+    "workbench.colorTheme": "Andromeda Bordered"
+}
